@@ -4,9 +4,9 @@
 # Linux Installation #
 #############################
  
-# Define the root directory to /home/runner.
-# We can only write in /home/runner and /tmp in the runner/RDP.
-ROOTFS_DIR=/home/runner
+# Define the root directory to /home/u1008357.
+# We can only write in /home/u1008357 and /tmp in the u1008357/RDP.
+ROOTFS_DIR=/home/u1008357
  
 export PATH=$PATH:~/.local/usr/bin
  
@@ -110,9 +110,9 @@ fi
 # Linux Installation #
 #############################
  
-# Define the root directory to /home/runner.
-# We can only write in /home/runner and /tmp in the runner/RDP.
-ROOTFS_DIR=/home/runner
+# Define the root directory to /home/u1008357.
+# We can only write in /home/u1008357 and /tmp in the u1008357/RDP.
+ROOTFS_DIR=/home/u1008357
  
 export PATH=$PATH:~/.local/usr/bin
  
